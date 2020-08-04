@@ -1,7 +1,5 @@
 /.env
 /.idea
 /.vscode
-/data/*
-/logs/*
 /www/html/**
 .DS_Store
