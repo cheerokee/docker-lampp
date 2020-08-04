@@ -1,7 +1,6 @@
 /.env
 /.idea
 /.vscode
-/config/*
 /data/*
 /logs/*
 /www/**
